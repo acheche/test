@@ -4,7 +4,7 @@ import unittest
 
 class LearningCase(unittest.TestCase):
     def test_starting_out(self):
-        self.assertEqual(1,1)
+        self.assertEqual(2,2)
 
 def main():
     unittest.main()
